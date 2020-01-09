@@ -1,0 +1,105 @@
+@media (min-width: 1028px) {
+  .col-lg-4 {
+    max-width: 33.333333%;
+    margin: auto;
+  }
+  .subtex{
+    text-align: center;
+    margin-right: 30%;
+    margin-left: 30%;
+  }
+  .card{
+    margin-top: 40px;
+    box-shadow: 0px 0px 10px 0px #D9D9D9;
+    border-top-width: 7px;
+    border-top-style: solid;
+    margin-left: 55px;
+    margin-right: 55px;
+  }
+  h1 {
+    font-size: 200%;
+    font-weight: 100;
+    font-size: 30px;
+  }
+
+  h2 {
+    font-size: 200%;
+    font-weight: 600;
+    font-size: 20px;
+    padding-bottom: 30px;
+  }
+
+  }
+
+
+body{
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  background-color: hsl(0, 0%, 98%);
+  padding-left: 125px;
+  padding-right: 125px;
+  padding-top: 50px;
+}
+
+h1 {
+  font-size: 200%;
+  font-weight: 100;
+  font-size: 25px;
+}
+
+h2 {
+  font-size: 200%;
+  font-weight: 600;
+  font-size: 25px;
+  padding-bottom: 20px;
+}
+
+h3 {
+    font-weight: 300;
+    text-align: left;
+    font-weight: 600;
+}
+
+p {
+    color: hsl(229, 6%, 66%);
+    text-align: left;
+}
+
+footer{
+  padding-top: 45px;
+}
+
+
+.card{
+  margin-top: 40px;
+  box-shadow: 0px 0px 10px 0px #D9D9D9;
+  border-top-width: 7px;
+  border-top-style: solid;
+}
+
+.card1{
+  border-top-color: hsl(180, 62%, 55%)  ;
+}
+
+.card2{
+  border-top-color: hsl(0, 78%, 62%);
+}
+
+.card3{
+  border-top-color: hsl(34, 97%, 64%);
+}
+
+.card4{
+  border-top-color: hsl(212, 86%, 64%);
+}
+.card-body{
+
+}
+
+.subtex{
+  text-align: center;
+}
+.images{
+  text-align: end;
+  padding-top: 20px;
+}
